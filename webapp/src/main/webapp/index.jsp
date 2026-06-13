@@ -147,7 +147,7 @@
 
     <div class="footer">
         <p>
-            DevOps Demo Project | Jenkins + Maven + Tomcat + AWS EC2
+            DevOps-Demo Project | Jenkins + Maven + Tomcat + AWS EC2
         </p>
     </div>
 
